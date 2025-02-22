@@ -4,13 +4,13 @@
 ## Clone the Project
 
 ```bash
-git clone https://github.com/ChiragOnGitHub/ChatApp.git
+git clone https://github.com/ChiragOnGitHub/FraudQuest.git
 ```
 
 ## Navigate to the Project Directory
 
 ```bash
-cd ChatApp
+cd FraudQuest
 ```
 
 ## Install Dependencies
@@ -48,12 +48,6 @@ MAIL_PASS = <your_email_password>
 # Authentication and Security
 JWT_SECRET = <your_jwt_secret_key>
 SESSION_SECRET = <your_session_secret_key>
-
-# AWS S3 Configuration (i will use this in next commit )
-AWS_REGION = <your_aws_region>
-AWS_BUCKET_NAME = <your_aws_bucket_name>
-AWS_ACCESS_KEY_ID = <your_aws_access_key_id>
-AWS_SECRET_ACCESS_KEY = <your_aws_secret_access_key>
 
 # Google OAuth Configuration
 CLIENT_ID = <your_google_client_id>
